@@ -28,6 +28,6 @@ This project evaluates a fine-tuned BERT text classification model on a labeled 
 
 ## How to Run the Code
 
-1. Open `notebook/project.ipynb` in [Google Colab](https://colab.research.google.com/).
+1. Open `24224531_FinalProject_FakeNews.ipynb` in [Google Colab](https://colab.research.google.com/).
 2. Run all cells from top to bottom.
 
