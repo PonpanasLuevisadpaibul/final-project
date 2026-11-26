@@ -4,7 +4,7 @@
 
 ## Project Description
 
-This project evaluates a fine-tuned BERT text classification model on a labeled dataset of real and fake news articles. It includes exploratory data analysis (EDA) on class balance, article length, and punctuation/digit frequencies, followed by model inference, quantitative evaluation (accuracy, precision, recall, F1-score, and confusion matrix), and qualitative error analysis of misclassified articles.
+This project evaluates a fine-tuned BERT text classification model on a labeled dataset of real and fake news articles. It includes exploratory data analysis (EDA) on class balance, article length, and punctuation/digit frequencies, followed by model inference, quantitative evaluation (accuracy, precision, recall, F1-score, and confusion matrix), and qualitative error analysis of misclassified articles. AI assistants were used to assist in generating some parts of the code such as the visualisation and calculations. All code execution and model evaluation were verified.
 
 
 
